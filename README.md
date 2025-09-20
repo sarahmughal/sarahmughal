@@ -1,8 +1,8 @@
 ## hi, i'm sarah 
 
-# master's in health data science at UC San Francisco, graduated from UC Riverside & previously ran operations at natera
+master's in health data science at UC San Francisco, graduated from UC Riverside & previously ran operations at natera
 
-# more on me sarahmughal.com + reach me at sarah.mughal@ucsf.edu
+more on me sarahmughal.com + reach me at sarah.mughal@ucsf.edu
 <!--
 **sarahmughal/sarahmughal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
