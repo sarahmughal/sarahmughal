@@ -1,4 +1,4 @@
-## hi, i'm sarah 🍇
+## hi, i'm sarah 🪻
 
 current master's in health data science at UC San Francisco, previous research associate I at Natera
 
