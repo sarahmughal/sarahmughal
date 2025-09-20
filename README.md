@@ -1,6 +1,6 @@
 ## hi, i'm sarah 🪻
 
-current master's in health data science at UC San Francisco, previous research associate I at Natera
+current master's in health data science at uc san francisco, previous research associate at natera
 
 reach me at sarah.mughal@ucsf.edu
 <!--
