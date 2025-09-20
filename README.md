@@ -1,4 +1,4 @@
-## hi, i'm sarah 
+## hi, i'm sarah 🌷
 
 master's in health data science at UC San Francisco, graduated from UC Riverside & previously ran operations at natera
 
