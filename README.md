@@ -2,7 +2,7 @@
 
 current master's in health data science student at uc san francisco
 
-current research associate ii @[oldham-lab](https://github.com/oldham-lab), prev research associate i @[natera](https://www.natera.com)
+current research associate ii [@oldham-lab](https://github.com/oldham-lab), prev research associate i [@natera](https://www.natera.com)
 
 reach me at sarah.mughal@ucsf.edu
 <!--
