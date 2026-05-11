@@ -1,6 +1,8 @@
 ## hi, i'm sarah! 🪻
 
-current master's in health data science student at uc san francisco, previous research associate at natera
+current master's in health data science student at uc san francisco
+
+current research associate ii at [@oldham-lab](https://github.com/oldham-lab), prev research associate i at [natera](https://www.natera.com)
 
 reach me at sarah.mughal@ucsf.edu
 <!--
