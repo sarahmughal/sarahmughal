@@ -1,8 +1,8 @@
 ## hi, i'm sarah! 🪻
 
-current master's in health data science student [@ucsf](https://www.ucsf.edu/) & research associate ii [@oldham-lab](https://github.com/oldham-lab),
+current master's in health data science student [@ucsf](https://www.ucsf.edu/) + research associate ii [@oldham-lab](https://github.com/oldham-lab),
 
-prev bachelor's in biology [@ucr](https://www.ucr.edu/) & research associate i [@natera](https://www.natera.com)
+prev bachelor's in biology [@ucr](https://www.ucr.edu/) + research associate i [@natera](https://www.natera.com)
 
 reach me at sarah.mughal@ucsf.edu
 <!--
